@@ -1,5 +1,3 @@
-> Last updated: 2025-11-08
-=======
 # Python Sysadmin Katas
 
 Tiny, practical scripts for IT and sysadmin tasks — files, logs, networks, and APIs.  
@@ -23,4 +21,3 @@ Each kata is standalone, safe to run locally, and designed for quick 10–15 min
 ```bash
 # Example: run a kata
 python 01-files/bulk_rename_prefix.py
-
