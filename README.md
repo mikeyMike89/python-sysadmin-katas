@@ -22,4 +22,5 @@ Each kata is standalone, safe to run locally, and designed for quick 10–15 min
 # Example: run a kata
 python 01-files/bulk_rename_prefix.py
 
+---
 Last updated: 2025-11-08
