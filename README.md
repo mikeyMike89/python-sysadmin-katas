@@ -1,2 +1,8 @@
-Tiny, practical scripts for IT tasks (files, logs, networks, APIs). 
-Cadence: 10–15 min sessions. Each script is standalone and safe to share.
+# Python Sysadmin Katas
+
+Tiny, practical scripts for IT tasks — files, logs, networks, and APIs.  
+Each kata is standalone, safe to run locally, and designed for quick 10–15 minute sessions.
+
+**Purpose:** build daily automation fluency for Windows/M365 and security operations.
+
+> New katas added weekly as part of ongoing IT practice.
