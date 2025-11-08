@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![SysAdmin](https://img.shields.io/badge/Focus-SysAdmin-green)
+![Automation](https://img.shields.io/badge/Type-Automation-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
+
 # Python Sysadmin Katas
 
 Tiny, practical scripts for IT and sysadmin tasks — files, logs, networks, and APIs.  
