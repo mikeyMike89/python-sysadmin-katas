@@ -1,6 +1,15 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
 .venv/
-.env
-.DS_Store
-Thumbs.db
+venv/
+
+# Editors
+.vscode/
+.idea/
+
+# Outputs
+*.log
+*.txt
+reports/
